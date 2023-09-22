@@ -47,7 +47,6 @@
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/TopDown/Blueprints/BP_TopDownCharacter.uasset",
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/__ExternalActors__/TopDown/Maps/TopDownMap/4/F7/ZM6GHHXIMWGZW1BWV7MB5M.uasset",
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/__ExternalActors__/TopDown/Maps/TopDownMap/1/K4/AVD5D4O5CNZOWL2WVNTTCT.uasset",
-				"G:/Epic Games/Unreal Projects/WpnMaster/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/5I/EM8V3NMXHF5Y7A199JUI76.uasset",
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/TopDown/Blueprints/EnemyBP.uasset",
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/__ExternalActors__/TopDown/Maps/TopDownMap/E/W3/GVQ0JJ3ZZFL5H8B8LA5X4Z.uasset",
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/TopDown/Blueprints/CharacterAnimationBP.uasset",
@@ -65,7 +64,11 @@
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/RifleAnims/ShowcaseAssets/Meshes/Mannequin/MM_Land.uasset",
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/RifleAnims/ShowcaseAssets/Meshes/Mannequin/MM_Run_Fwd.uasset",
 				"G:/Epic Games/Unreal Projects/WpnMaster/Content/RifleAnims/ShowcaseAssets/Meshes/Mannequin/MM_Walk_Fwd.uasset",
-				"G:/Epic Games/Unreal Projects/WpnMaster/Content/RifleAnims/ShowcaseAssets/Meshes/Mannequin/MM_Walk_InPlace.uasset"
+				"G:/Epic Games/Unreal Projects/WpnMaster/Content/RifleAnims/ShowcaseAssets/Meshes/Mannequin/MM_Walk_InPlace.uasset",
+				"G:/Epic Games/Unreal Projects/WpnMaster/Content/TopDown/Blueprints/BP_TopDownController.uasset",
+				"G:/Epic Games/Unreal Projects/WpnMaster/Content/TopDown/Blueprints/CameraShake.uasset",
+				"G:/Epic Games/Unreal Projects/WpnMaster/Content/TopDown/Blueprints/BP_CameraShake.uasset",
+				"G:/Epic Games/Unreal Projects/WpnMaster/Content/__ExternalActors__/TopDown/Maps/TopDownMap/D/5I/EM8V3NMXHF5Y7A199JUI76.uasset"
 			]
 		}
 	]
